@@ -1,8 +1,8 @@
 -----
 title: Hello, Peano
 date: 16th Febuary 2011
-next: <a href="/pages/proofs.html">Propositions and Predicates →</a>
-prev: <a href="/pages/introduction.html">← Introduction</a>
+next: <a href="proofs.html">Propositions and Predicates →</a>
+prev: <a href="introduction.html">← Introduction</a>
 -----
 
 Definitions, Definitions
